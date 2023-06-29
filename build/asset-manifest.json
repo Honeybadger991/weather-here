@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e587372d.css",
+    "main.js": "/static/js/main.ed8e6ed1.js",
+    "static/media/logo-no-background.svg": "/static/media/logo-no-background.03d7de14d87e66cb5a08f7ab978295ec.svg",
+    "static/media/humidity.svg": "/static/media/humidity.69c221b4e153ab04d9d82ce8cf97ad73.svg",
+    "static/media/pressure.svg": "/static/media/pressure.cb16ffe64f22bc863bcf4e1d46c449c0.svg",
+    "static/media/clouds.svg": "/static/media/clouds.961f6bcebb667b1bab204b7cfee22298.svg",
+    "static/media/sun.svg": "/static/media/sun.cbecb5a9fdf953978c2df745f2d56a53.svg",
+    "static/media/sunset.svg": "/static/media/sunset.58bbdf949b07d2e827761e798d0e1587.svg",
+    "static/media/location.svg": "/static/media/location.7fabfe68ab32ce3c954a8d33241dd7c3.svg",
+    "index.html": "/index.html",
+    "static/media/wind.svg": "/static/media/wind.7e9d793fa21dd71a18d1abd5bf128df1.svg",
+    "static/media/visibility.svg": "/static/media/visibility.f24a19172548925510d11e04fef68aa4.svg",
+    "static/media/thermometer.svg": "/static/media/thermometer.cba1fef7e4cc35cdfe218e18868018be.svg",
+    "static/media/search.svg": "/static/media/search.aaa93b2d787a46f35efe0ae0085724b2.svg",
+    "static/media/target.svg": "/static/media/target.2361ea1a770c42d58cc6dae1c47656c3.svg",
+    "static/media/arrow-upward.svg": "/static/media/arrow-upward.8ff52ff52518bfa117efcf698c005649.svg",
+    "static/media/arrow-downward.svg": "/static/media/arrow-downward.f39aa2e743f6ee32fb641e94b72a77d4.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.bee05882ae98047384d6bb93880ea8e1.svg",
+    "main.e587372d.css.map": "/static/css/main.e587372d.css.map",
+    "main.ed8e6ed1.js.map": "/static/js/main.ed8e6ed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e587372d.css",
+    "static/js/main.ed8e6ed1.js"
+  ]
+}
